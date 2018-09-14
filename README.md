@@ -1,1 +1,1 @@
-# docker_install
+# Docker install for CentOS 7
